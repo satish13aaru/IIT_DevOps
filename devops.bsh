@@ -1,5 +1,0 @@
-!#/bin/bash
-ECHO="/usr/bin/echo"
-
-$ECHO "\nHellow World"
-
